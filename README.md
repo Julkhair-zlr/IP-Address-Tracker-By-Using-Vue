@@ -35,4 +35,4 @@ Open [http://localhost:5173/] (http://localhost:5173/) to View in your browser.
 ### Links
 
 - Source code URL: [@github](https://github.com/Julkhair-zlr/IP-Address-Tracker-By-Using-Vue)
-- Live Site URL: [@github pages]()
+- Live Site URL: [@github pages](https://starlit-baklava-31f171.netlify.app/)
